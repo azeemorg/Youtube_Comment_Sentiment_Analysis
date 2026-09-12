@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+*.env
+
+# API keys / credentials
+credentials.json
+secrets.json
+config.json
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Generated files
+outputs/
+results/
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
