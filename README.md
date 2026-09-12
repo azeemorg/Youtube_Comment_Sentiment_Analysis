@@ -192,7 +192,7 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Azeem Jamadar**
+**Azeem Jamadar** **Prashant Powar**
 
 Interested in **AI / Machine Learning** and building practical NLP and AI applications.
 
